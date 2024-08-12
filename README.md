@@ -7,7 +7,6 @@ The application prompts the user to select a color and shape, provide text for t
  An application that generates an .svg file that generates a logo as per user prompts.
  by Adam Todorovic
 
-
 ## :ledger: Index
 
 - [About](#beginner-about)
@@ -27,8 +26,8 @@ This is an SVG Logo Maker application designed to help users easily create custo
 The application is simple to use and allows for quick customization of logos, making it a useful tool for developers and designers alike. 
 Whether you need a logo for a project, branding materials, or just want to experiment with SVGs, this tool provides a quick and easy way to generate high-quality results.
 
-
 Features include:
+
 - Customizable Logos: Users can create logos by choosing a shape (Triangle, Circle, or Square), entering text (up to 3 characters), and selecting colors for both the shape and text.
 - Interactive Prompts: The application guides users through the logo creation process with a series of prompts, making it easy to generate personalized SVG logos.
 - SVG Output: The generated logo is saved as an SVG file, which can be used directly in web development projects or as a part of a branding strategy.
@@ -64,9 +63,6 @@ SVG-LOGO-MAKER
 ├── package.json        // Project metadata and dependencies
 └── README.md           // App description, link to video, setup, and usage instructions
 
-
-
-
 ```
 
 ###  :hammer: 
@@ -93,13 +89,11 @@ Build
 - 8. Open preview and save it for your own use!
 
 - IMPORTANT NOTE: The video demonstrating the use and functionality starts off with the npm test which all pass. Followed by running node index to invoke the
-  application to run it. Make sure you are in the correct directory which in my case is bootcamp\SVG-LOGO-MAKER to successfuly start the application. Run the application
-  and answer the prompts to generate your svg logo. If you are stuck on the steps to run/invoke the applicaiton i have a photo and gif in the preview folder. I also have
-  two links to the gif/video demonstrating the use and functionality of the application. If you are stil stuck and unable to resolve an issue do not hesitate to contact me on 
+  application to run it. Make sure you are in the correct directory which in my case is bootcamp\SVG-LOGO-MAKER to successfuly start the application. 
+  If you are stuck on the steps to run/invoke the application i have a photo and gif in the preview folder. I also have two links to the gif/video demonstrating the use and functionality of the application. 
+  
+  If you are stil stuck and unable to resolve an issue do not hesitate to contact me on 
   my email or leave a comment in the issues links below under the contribution section!
-
-
-  If you are stuck and unable to resolve an issue do not hesitate to contact me on my email or leave a comment in the issues links below under the contribution section!
 
  ###  :fire: Contribution
 
@@ -128,7 +122,6 @@ Below is a preview photo of the website.
 - Click here if the above link doesn't work !: https://imgur.com/a/KyHSxwC
 
 You may also download the image for your own reference :D
-
 
 ## :star2: Credit/Acknowledgment
 Adam Todorovic
